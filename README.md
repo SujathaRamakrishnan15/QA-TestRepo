@@ -1,2 +1,3 @@
 # QA-TestRepo
-This is for QA Testing......
+This is for QA Testing
+Drafting my Test Protocol
